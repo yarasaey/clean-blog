@@ -61,9 +61,7 @@ The idea behind Clean Blog is to create a lightweight blogging platform where:
 
 <img width="531" height="403" alt="99" src="https://github.com/user-attachments/assets/ab3d88dd-9302-46c1-b909-dbda368f882f" />
 
-<img width="958" height="241" alt="Screenshot 2025-03-14 013745" src="https://github.com/user-attachments/assets/c665a490-08c6-46be-810a-810f4428d07d" />
-<img width="957" height="403" alt="Screenshot 2025-03-14 013658" src="https://github.com/user-attachments/assets/faa0b609-65dd-4b02-93f6-aa7a7046f2c3" />
-<img width="946" height="443" alt="Screenshot 2025-03-14 013537" src="https://github.com/user-attachments/assets/18761792-3249-429b-89ca-dee499b93335" />
+
 
 
 
