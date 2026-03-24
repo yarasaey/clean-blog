@@ -54,6 +54,24 @@ The idea behind Clean Blog is to create a lightweight blogging platform where:
 * Category & Author Management
 * Localization System
 
+  Screenshot
+  <img width="490" height="407" alt="55" src="https://github.com/user-attachments/assets/692ffbd5-3807-413a-b7f8-043622ffb993" />
+  <img width="503" height="392" alt="66" src="https://github.com/user-attachments/assets/4ee5ea02-c0c6-478a-8b30-c00372ed102d" />
+<img width="503" height="400" alt="88" src="https://github.com/user-attachments/assets/e7195701-064c-4bb0-8f6a-86bcc8c6291d" />
+
+<img width="531" height="403" alt="99" src="https://github.com/user-attachments/assets/ab3d88dd-9302-46c1-b909-dbda368f882f" />
+
+<img width="958" height="241" alt="Screenshot 2025-03-14 013745" src="https://github.com/user-attachments/assets/c665a490-08c6-46be-810a-810f4428d07d" />
+<img width="957" height="403" alt="Screenshot 2025-03-14 013658" src="https://github.com/user-attachments/assets/faa0b609-65dd-4b02-93f6-aa7a7046f2c3" />
+<img width="946" height="443" alt="Screenshot 2025-03-14 013537" src="https://github.com/user-attachments/assets/18761792-3249-429b-89ca-dee499b93335" />
+
+
+
+
+
+
+
+
  🧑‍💻 Tech Stack
 
 | Layer        | Technology            |
