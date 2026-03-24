@@ -10,7 +10,7 @@ It allows users to read blog posts and interact with content, while providing ad
 
 The idea behind Clean Blog is to create a lightweight blogging platform where:
 
-* Users can explore and read articles بسهولة
+* Users can explore and read articles 
 * Content is organized by categories and authors
 * Admins can manage all blog content dynamically
 
